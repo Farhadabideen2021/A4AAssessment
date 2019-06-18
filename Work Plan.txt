@@ -6,6 +6,6 @@
 	CSS 3,
 	JQuery,
 	AJAX,
-	MVC
+	MVC.
 
 3. Template Ready
